@@ -1,0 +1,23 @@
+
+.home_conteiner{
+
+display:inline-block;
+align-items: center;
+
+        
+}
+.H12 {
+        font-size: 40px;
+        font-family: Helvetica;
+        display: center;
+        margin: 25px 300px 25px 300px;
+        padding: auto;
+        font-style: oblique;
+        background: rgba(157, 153, 151, 0.9);
+        border-radius: 30px 29px 29px 29px;
+        -webkit-border-radius: 30px 29px 29px 29px;
+        -moz-border-radius: 30px 29px 29px 29px;
+        box-shadow: 10px 3px 42px 6px rgba(0, 0, 0, 0.75);
+        -webkit-box-shadow: 10px 3px 42px 6px rgba(0, 0, 0, 0.75);
+        -moz-box-shadow: 10px 3px 42px 6px rgba(0, 0, 0, 0.75);
+}

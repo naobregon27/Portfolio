@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Flex:opsz,wght@8..144,300;8..144,600;8..144,400,&display=swap');
+
+body{
+ 
+    width:auto;
+    height: auto; 
+    display: flex;
+    place-items: center;
+    background-color: #213547;
+    background-image: url("./Imagenes/3084461.jpg");
+  
+ 
+   /* display: flex; */
+}
+
+body::-webkit-scrollbar{
+   background: transparent;
+   border-radius: 100rem;
+   width: 8px;
+}
+
+body::-webkit-scrollbar-thumb{
+   background-color: #ffffff;
+   border-radius: 100rem;
+   width: 10px;
+}
