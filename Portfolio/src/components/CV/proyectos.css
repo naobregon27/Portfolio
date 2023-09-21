@@ -47,6 +47,7 @@
     box-shadow: 10px 3px 42px 6px rgba(0, 0, 0, 0.75);
     -webkit-box-shadow: 10px 3px 42px 6px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 10px 3px 42px 6px rgba(0, 0, 0, 0.75);
+    color:bisque;
 }
 
 .Coun{
@@ -57,6 +58,7 @@
     box-shadow: 10px 3px 42px 6px rgba(0, 0, 0, 0.75);
     -webkit-box-shadow: 10px 3px 42px 6px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 10px 3px 42px 6px rgba(0, 0, 0, 0.75);
+    color:bisque;
 }
 
 .Sp{
@@ -67,4 +69,5 @@
     box-shadow: 10px 3px 42px 6px rgba(0, 0, 0, 0.75);
     -webkit-box-shadow: 10px 3px 42px 6px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 10px 3px 42px 6px rgba(0, 0, 0, 0.75);
+    color:bisque;
 }

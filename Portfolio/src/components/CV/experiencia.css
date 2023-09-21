@@ -21,7 +21,7 @@
 }
 
 .Nav_exp li h2:hover{
-    background-color: #434343;
+    background-color: #525151;
 }
 
 .Nav_exp > li {
@@ -46,6 +46,8 @@
     box-shadow: 10px 3px 42px 6px rgba(0, 0, 0, 0.75);
     -webkit-box-shadow: 10px 3px 42px 6px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 10px 3px 42px 6px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 3px 42px 6px rgba(0, 0, 0, 0.75);
+    color:bisque;
 }
 
 .Ejercito{
@@ -56,6 +58,8 @@
     box-shadow: 10px 3px 42px 6px rgba(0, 0, 0, 0.75);
     -webkit-box-shadow: 10px 3px 42px 6px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 10px 3px 42px 6px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 3px 42px 6px rgba(0, 0, 0, 0.75);
+    color:bisque;
 }
 
 .Ya{
@@ -66,4 +70,6 @@
     box-shadow: 10px 3px 42px 6px rgba(0, 0, 0, 0.75);
     -webkit-box-shadow: 10px 3px 42px 6px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 10px 3px 42px 6px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 10px 3px 42px 6px rgba(0, 0, 0, 0.75);
+    color:bisque;
 }
