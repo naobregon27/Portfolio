@@ -10,7 +10,7 @@ function Proyectos() {
 
     return (
         <div className="Contenedor_Pro">
-            <h2>Proyectos Realizados</h2>
+            <h2 className="tituloo">Proyectos Realizados</h2>
             <ul className="Nav_Pro">
                 <li>
                     <Link to="https://github.com/naobregon27/PI-Rick-and-Morty-"><h2>Rick And Morty</h2></Link>

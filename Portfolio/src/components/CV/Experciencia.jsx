@@ -4,10 +4,10 @@ import "../CV/experiencia.css"
 function experiencia() {
     return (
         <div className="Contenedor_ex">
-            <h2>Experiencia Laboral</h2>
+            <h2 className="titulo_Exp">Experiencia Laboral</h2>
             <ul className="Nav_exp">
                 <li><h2>PWC Argentina</h2>
-                    <a >Joven Profesional Experimentado (Oct 2011– Abr 2013 )</a>
+                    <a className="Soldado">Joven Profesional Experimentado (Oct 2011– Abr 2013 )</a>
                     <ul className="pwc">
                         <li>inventarios y arqueos de caja.</li>
                         <li>Control y análisis de rubros contables (Caja y bancos, inversiones, otras deudas, otros créditos, bienes de usos, bienes de cambios, test de pasivos omitidos)</li>
@@ -22,7 +22,7 @@ function experiencia() {
 
 
                 <li><h2>Ejercito Argentino</h2>
-                    <a>Soldado Voluntario Tecnico (May 2014 - Oct 2020)</a>
+                    <a className="Soldado">Soldado Voluntario Tecnico (May 2014 - Oct 2020)</a>
                     <ul className="Ejercito">
                         <li>Armado de presupuestos</li>
                         <li>Seguimientos y entrega del pedido</li>
@@ -37,7 +37,7 @@ function experiencia() {
                 </li>
 
                 <li><h2>Pedidos YA!</h2>
-                    <a >Trabajador Independiente (Autonomo) - (May 2021 – Actualidad)</a>
+                    <a className="Soldado">Trabajador Independiente (Autonomo) - (May 2021 – Actualidad)</a>
                     <ul className="Ya">
                         <li>
                             Trabajos de logistica y cadeteria.
