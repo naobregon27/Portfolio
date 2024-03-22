@@ -18,14 +18,14 @@ function Cv() {
     return (
         <div>
             <div className="Contenedor">
-                <p className="titulo">Me desempaño en area Backend tanto como en el Frontend. En la parte de Backend utilizando tecnologías como Node.js, Express.js y bases de datos como PostgreSQL y Maria DB. También tengo experiencia en el diseño e implementación de arquitecturas de microservicios. Eh implementado en proyectos pasarelas de pagos (MercadoPago), WebSocket y utilice herramienta como Cloudinary.
+                {/* <p className="titulo">Me desempaño en area Backend tanto como en el Frontend. En la parte de Backend utilizando tecnologías como Node.js, Express.js y bases de datos como PostgreSQL y Maria DB. También tengo experiencia en el diseño e implementación de arquitecturas de microservicios. Eh implementado en proyectos pasarelas de pagos (MercadoPago), WebSocket y utilice herramienta como Cloudinary.
                     Además de mis habilidades en backend, tengo experiencia en el desarrollo frontend utilizando React, Redux, HTML5, CSS3 y JavaScript, lo que me permite colaborar eficientemente con equipos Full Stack en proyectos integrales.
                     Soy cómodo trabajando tanto en equipo como de forma independiente, y estoy siempre dispuesto a aprender nuevas tecnologías para mejorar mis habilidades y mantenerme actualizado en el cambiante mundo del desarrollo web.
                 </p>
                 <h2 className="titulo">Full Stack Developer| Node JS| express| Postgre SQL| Maria DB|
                     Sequelize| SQL| HTML| CSS| React JS| Redux JS| MercadoPago|
                     WebSockets
-                </h2>
+                </h2> */}
                 <h1 className="titulo"> Nahuel Andrés Obregón</h1>
 
             </div>
