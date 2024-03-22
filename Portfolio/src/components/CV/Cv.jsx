@@ -26,7 +26,7 @@ function Cv() {
                     Sequelize| SQL| HTML| CSS| React JS| Redux JS| MercadoPago|
                     WebSockets
                 </h2> */}
-                <h1 className="titulo"> Nahuel Andrés Obregón</h1>
+                {/* <h1 className="titulo"> Nahuel Andrés Obregón</h1> */}
 
             </div>
             <h4 className="Titulo_vector">Skills</h4>
