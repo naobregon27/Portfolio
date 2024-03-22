@@ -8,12 +8,9 @@ function App() {
   return (
     <div>
       <Routes>
-        <Route exact path="/" element={<Landing />}></Route>
+        <Landing></Landing>
       </Routes>
     </div>
-
-
-
   )
 }
 
